@@ -1,2 +1,1 @@
-👩🏻‍💻Calculator🧠
-📚Fully Functional Math Calculator 🧮➗
+📚Fully Functional Math Calculator 🧮🧠
